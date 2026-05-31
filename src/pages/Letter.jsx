@@ -11,7 +11,7 @@ function Letter() {
             <div className="title">
                 <Typewriter
                     options={{
-                        strings: ["Letter for Linh🥰 💌"],
+                        strings: ["Letter for Anh"],
                         autoStart: true,
                         loop: true,
                         delay: 100,
