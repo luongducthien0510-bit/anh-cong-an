@@ -12,7 +12,7 @@ function Home() {
         <div className="text">
           <Typewriter
             options={{
-              strings: ["Anh đẹp trai"],
+              strings: ["Anh đẹp trai!"],
               autoStart: true,
               loop: true,
               delay: 100,
